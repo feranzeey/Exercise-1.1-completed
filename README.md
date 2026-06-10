@@ -1,3 +1,4 @@
+HEAD
 # Exercise 1.1 - Multi-Service Docker Environment
 
 ## Overview
@@ -108,3 +109,5 @@ docker compose logs
 ```bash
 docker ps
 ```
+# Exercise-1.1-completed
+ 778f9baa899c1d11e63fd7522a44ba012e144636
